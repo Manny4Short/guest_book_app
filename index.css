@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+	padding:0px
+}
+
+body{
+	position: relative;
+	
+}
+.heading{
+	width: 70%;
+	margin: 10px auto;
+	text-align: center;
+	color: 	white;
+	background: #65aa67;
+	border: 1px solid #b1cc77;
+	border-radius: 10px;
+	padding: 15px;
+}
+form {
+	width: 50%; 
+	margin: 30px auto; 
+	border-radius: 5px; 
+	padding: 10px;
+	/* background: #adb995; */
+	border: 1px solid #29301a;
+}
+
+.database-form{
+	width: 70%; 
+	margin: 30px auto; 
+	border-radius: 5px; 
+	/* padding: 10px; */
+	background: #adb995;
+	border: 1px solid #29301a;
+}
+form p {
+	color: red;
+	margin: 0px;
+}
+.input_guest {
+	width: 15%;
+	height: 10px; 
+	padding: 10px;
+	border: 2px solid #42463b;
+	border-radius: 4px; 
+}
+.input_sex{
+    width: 10%;
+    border: 2px solid #42463b;
+	padding: 2px;
+	height: 33px;
+	border-radius: 4px; 
+}
+.add_btn {
+	height: 34px;
+	background: #657547;
+	color: whitesmoke;
+	border: 2px solid #42463b;
+	border-radius: 5px; 
+	padding: 5px 20px;
+	font-size: medium;
+}
+
+ul{
+	width: 50%;
+	margin: 30px auto;
+	text-align: center;
+	font-size: 30px;
+}
+li{
+	text-align: left;
+	
+}
+
+.delete{
+	text-align: center;
+	
+}
+.delete a{
+	color: white;
+	background: #a52a2a;
+	padding: 0px 3px;
+	border-radius: 3px;
+	text-decoration: none;
+	
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 110px;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;  
+}
+
+
